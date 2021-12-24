@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jiang0307
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C and Python
 
 <!---
 Jiang0307/Jiang0307 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
